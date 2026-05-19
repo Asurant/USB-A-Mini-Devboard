@@ -1,4 +1,6 @@
 # USB-A-Mini-Devboard
+This is a small USB A Devboard I made. It uses a CH32V003J4M6 as the MCU. It was has 8 pins, 2 for the VBUS, 2 for the GND, and 4 for sensors and similar items. It is 34.5mm in length and 17mm in width.
+  
 ![](attachments/Image10.png)
 
 ## Hardware
